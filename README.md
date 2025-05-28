@@ -31,4 +31,12 @@
 |  |
 | ------- |
 | [2679-count-distinct-numbers-on-board](https://github.com/CodePractice1710/LEETCODE-PRACTICE/tree/master/2679-count-distinct-numbers-on-board) |
+## String
+|  |
+| ------- |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/CodePractice1710/LEETCODE-PRACTICE/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Backtracking
+|  |
+| ------- |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/CodePractice1710/LEETCODE-PRACTICE/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 <!---LeetCode Topics End-->
